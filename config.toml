@@ -98,15 +98,15 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "koktlzz"
+    name = "GeniusGalois"
     # Email
-    email = "koktlgwr@gmail.com"
+    email = "GeniusGalois@163.com"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    # website = "https://koktlzz.github.io/"
+    # website = "https://geniusgalois.github.io/"
     # Twitter
-    # twitter = "laodama_zz"
+    twitter = "GeniusGalois"
 
 # Related content
 [related]
