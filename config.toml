@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "/"
-title = "Inspire Hub"
+title = "Genius Hub"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
